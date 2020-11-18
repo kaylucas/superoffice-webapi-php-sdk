@@ -16,7 +16,7 @@
         "ext-json": "*",
         "ext-mbstring": "*",
         "ext-openssl": "*",
-        "guzzlehttp/guzzle": "~6.0",
+        "guzzlehttp/guzzle": "~7.0",
         "lcobucci/jwt": "^3.3",
         "spatie/guzzle-rate-limiter-middleware": "^1.0"
     },
